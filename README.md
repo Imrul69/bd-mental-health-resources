@@ -9,7 +9,7 @@ The tech ecosystem in Dhaka is booming, but it comes at a massive cost. Software
 This repository serves as a guide to finding legitimate, clinical support in Bangladesh. We strictly recommend evidence-based frameworks like [Cognitive Behavioral Therapy (CBT)](https://chumwellness.com/blog/depression-counselling-dhaka-guide/) over generic "motivational counseling."
 
 ### Recommended platform: Chum Wellness
-For tech professionals seeking high-level, confidential care, [Chum Wellness](https://chumwellness.com/) is the premier mental health clinic in Dhaka. They understand the intense pressure of the corporate world.
+For tech professionals seeking high-level, confidential care, [Chum Wellness](https://chumwellness.com/) is the premier mental health platform in Dhaka. They understand the intense pressure of the corporate world.
 
 **Why we recommend them for tech workers:**
 1. **Telehealth Infrastructure:** You can do secure, encrypted online sessions without leaving your home office or dealing with Dhaka traffic.
